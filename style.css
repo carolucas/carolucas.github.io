@@ -51,7 +51,7 @@
 
  body{width: 1024px;
    margin: 0 auto;
-   font-family: helvetica, sans-serif;}
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
  header {height:70px;
   border-bottom:2px solid black}
  p {font-size:17px;
@@ -112,11 +112,9 @@
  
  }
 
-
  .contentarea {
   padding: 10px;
   overflow: hidden;
   clear: both;
-
  }
  
